@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bala
+* source:	https://sketchfab.com/3d-models/bala-46049b7c774b4ce588a60e839d348187
+* author:	esdalex115 (https://sketchfab.com/esdalex115)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bala" (https://sketchfab.com/3d-models/bala-46049b7c774b4ce588a60e839d348187) by esdalex115 (https://sketchfab.com/esdalex115) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
