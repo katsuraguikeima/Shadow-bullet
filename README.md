@@ -18,6 +18,7 @@ This is a game developed using the C++ programming language along with the OpenG
 Use the WASD keys to move around the environment. Move the mouse to change the camera direction.
 
 **Screenshots:**
+
 ![image](https://github.com/user-attachments/assets/d9e1f07c-cc5a-4816-b81f-83ffbbfbfe99)
 ![image](https://github.com/user-attachments/assets/f3d50a42-1439-4e84-afc1-46001ab410f3)
 ![image](https://github.com/user-attachments/assets/a8bd5711-76fc-4e15-99d1-ede76d1b9fd1)
